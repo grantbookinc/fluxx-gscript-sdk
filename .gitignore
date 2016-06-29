@@ -1,0 +1,5 @@
+*.swo
+*.swp
+.ropeproject
+node_modules
+sandbox_creds.json
